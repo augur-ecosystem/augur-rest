@@ -1,0 +1,5 @@
+build/**
+dist/**
+augur.egg-info/**
+venv
+config
